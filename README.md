@@ -1,7 +1,7 @@
 # new-project-checklist
 ## Base Subclass List
-Label
-Button
+..* Label
+..* Button
 TextView
 View
 ContainerView
