@@ -1,16 +1,23 @@
 # new-project-checklist
 ## Base Subclass List
-1. Label
-2. Button
-3. TextView
-4. View
-5. ContainerView
-6. ViewController
-7. TableViewController
-8. CollectionViewController
-9. TableViewCell
-10. CollectionViewCell
-11. NavigationViewController
+* Label
+* Button
+* TextView
+* View
+* ContainerView
+* ViewController
+* TableViewController
+* CollectionViewController
+* TableViewCell
+* CollectionViewCell
+* NavigationViewController
+* ParentViewController
+* ChildViewController
+* ParentTableViewController
+* ChildTableViewController
+* ParentCollectionViewController
+* ChildCollectionViewController
+
 
 ## Naming
 1. ViewController => VC
